@@ -1,2 +1,1 @@
-//Hola esto es un archivo de prueba
-// Esta funcionando
+//Rompi git bash
